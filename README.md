@@ -1,14 +1,11 @@
-# 📌 Projet Réservation de Salles
+
+# 📌 TP Java – Injection dynamique avec réflexion
 
 ## 📝 Description
-Ce projet est une application Java permettant la gestion de réservations de salles.  
-Il illustre plusieurs concepts clés :
-- Modèle de données relationnel avec **optimistic locking**
-- Utilisation d’un **cache de second niveau** pour améliorer les performances
-- Injection dynamique de dépendances via un fichier de configuration (`config.txt`) et la **réflexion Java**
-- Scénarios de test pour valider les fonctionnalités principales
-- Script de migration pour mettre à jour une base existante
-- Rapport de performance pour analyser et optimiser le système
+Ce projet est une application Java simple qui illustre l’utilisation des **interfaces** et de leurs **implémentations** pour effectuer un calcul.  
+L’objectif est de montrer comment utiliser la **réflexion** pour charger dynamiquement les classes à partir d’un fichier de configuration (`config.txt`), permettant ainsi une flexibilité dans la gestion des dépendances.
+
+
 
 ## 📂 Structure du projet
 ## src/
