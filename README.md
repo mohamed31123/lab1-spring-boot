@@ -11,11 +11,18 @@ Il illustre plusieurs concepts clés :
 - Rapport de performance pour analyser et optimiser le système
 
 ## 📂 Structure du projet
-src/
-├── dao/           # Interfaces et implémentations DAO
-├── metier/        # Interfaces et implémentations métier
-├── presentation/  # Classes de présentation (main, affichage)
-└── config.txt     # Fichier de configuration externe
+## src/
+
+## ├── dao/  Interfaces et implémentations DAO
+
+
+## ├── metier/         Interfaces et implémentations métier
+
+
+## ├── presentation/  Classes de présentation (main, affichage)
+
+
+## └── config.txt     Fichier de configuration externe
 
 
 ## ⚙️ Configuration
