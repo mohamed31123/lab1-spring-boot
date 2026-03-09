@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/eff5be32-1729-498c-b58d-1ee09b4aff71
 
 
 
-##  🏁 Conclusion
+##   Conclusion
 Ce TP capstone démontre la mise en place d’une application complète, robuste et performante.
 Grâce à la configuration externe et à la réflexion, l’application est flexible et facilement extensible.
 Elle est prête pour un déploiement en production avec des fonctionnalités solides de gestion des réservations et d’optimisation des performances
